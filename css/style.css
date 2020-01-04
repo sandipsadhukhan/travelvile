@@ -1,0 +1,21 @@
+.slider .btn{
+    margin-top:20px;
+}
+
+.search-section input{
+    padding: 5px !important;
+    font-size: 18px !important;
+    width:90% !important;
+    border: 3px solid #c4c4c4 !important;
+}
+
+.autocomplete-content {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+
+.section-follow .fa-4x{
+    margin: 5px 10px;
+}
+
